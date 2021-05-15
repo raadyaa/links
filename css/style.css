@@ -82,7 +82,7 @@ h2{
 }
 
 .icons-social a {
-	color: #00E28B;
+	color: #db1e7d;
 }
 
 .icons-social a svg path{
@@ -93,15 +93,26 @@ h2{
 	font-family: 'Reem Kufi', sans-serif;
 }
 
+.personal{
+	font-family: 'Helvetica', sans-serif sans;
+	font-size: small;   
+}
+
 .gamesite {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Bebas Neue', cursive;
 	font-style: normal;
 }
 
 .drip{
 	font-family: 'Bebas Neue', cursive;
+	font-size: x-small;
 	font-style: normal;
 }
+
+.market{
+	font-size:1rem;
+}
+
 
 footer{
 	position: fixed;
