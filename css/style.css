@@ -69,8 +69,8 @@ main > .tagline {
 /* Theme */
 
 main {
-	background: #111111;
-	color: #FAFAFA;
+	background: #006D5B;
+	color: #e9c46a;
 }
 
 h2{
@@ -82,7 +82,11 @@ h2{
 }
 
 .icons-social a {
-	color: #db1e7d;
+	color: #e9c46a;
+}
+
+.tagline{
+	color: #e9c46a;
 }
 
 .icons-social a svg path{
@@ -120,8 +124,8 @@ footer{
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	background-color: #111111;
-	color: #FAFAFA;
+	background-color: #006D5B;
+	color: #e9c46a;
 	text-align: center;
   }
 
